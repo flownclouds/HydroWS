@@ -1,0 +1,11 @@
+                       HydroWS供水管线设计工具 revision history
+
+2, HydroWS 1.0 (June 11, 2016)——近期实现
+  +) 支持任意桩号的分段管线定义，不用对应管线上的节点。
+  *) Fixed bug of 钢制弯头、凑合段的壁厚放到标准断面行。
+
+1, HydroWS 0.9 (June 10, 2016)
+  +) 增加对平面、纵面管线标注桩号按钮，方便在初始三条线（平面管线、纵面管线、地形剖切线）情况下填写分段数据。
+  *) Fixed bug of 修改回填土方的公式错误。
+  *) Fixed bug of 修改地形图切剖面原来生成的是polyline改为LightweightPolyline。
+  *) Fixed bug of 修改土方工程量统计按定义管线断面改为按标准断面。
