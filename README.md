@@ -33,3 +33,5 @@ HydroWS水利供水管线设计工具是一款方便快捷的供水管线设计�
 
 HydroWS source code is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
+![](https://cloud.githubusercontent.com/assets/10678867/25748678/7390cb0a-31de-11e7-8dbc-4cdfe049a6df.png)
